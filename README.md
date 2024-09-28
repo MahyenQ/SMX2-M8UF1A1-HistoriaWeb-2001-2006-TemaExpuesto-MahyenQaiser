@@ -9,7 +9,7 @@ HistoriaWeb
 
 |**En primer lugar**|**En segundo lugar**|
 |----------|:----------:|
-|*Que la enciclopedia tenía que ser abierta, libre y en línea, influenciada por el movimiento del software libre.*|*Él creía que un filósofo debía liderar el proyecto, por lo que se puso en contacto con ![Larry Sanger](https://es.wikipedia.org/wiki/Larry_Sanger#:~:text=Lawrence%20%C2%ABLarry%C2%BB%20Mark%20Sanger%20%28Bellevue%2C%20Washington%3B%2016%20de,de%20las%20pol%C3%ADticas%20m%C3%A1s%20importantes%20de%20la%20enciclopedia.)|
+|*Que la enciclopedia tenía que ser abierta, libre y en línea, influenciada por el movimiento del software libre.*|*Él creía que un filósofo debía liderar el proyecto, por lo que se puso en contacto con ![Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger)|
 
 ##### Sanger era un estudiante de posgrado en filosofía, era amigo en línea de Jimmy Wales y se le ocurrió la idea de una enciclopedia en línea. Crearon Nupedia con el apoyo de Bomis y a principios de año 2000 lanzaron oficialmente el sitio web. Se centraron en la calidad, con un riguroso proceso de revisión en el que participaron colaboradores voluntarios del proyecto para garantizar la precisión. A pesar de la minuciosidad, el progreso fue lento y, después de un año, Nupedia solo había publicado unos pocos artículos.
 
