@@ -26,6 +26,12 @@ HistoriaWeb
 ## *15 de enero* 
 ##### solo cinco días después del lanzamiento del prototipo. Al día siguiente, Wales realizó su primera edición en la nueva plataforma. Así, después de sólo quince días, ya había 600 artículos escritos en Wikipedia y tuvo éxito luego adoptó algunas normas y convenciones de la comunidad wiki.
 
+## *Después de 6 meses*
+
+##### Wikipedia tenía más de 6.000 artículos en diferentes idiomas. Los fundadores, Wales y Sanger, cambiaron su enfoque de Nupedia a Wikipedia debido a su rápido éxito. La popularidad de Wikipedia siguió creciendo, especialmente cuando Google indexó el sitio o se compartieron artículos en plataformas como Slashdot.
+
+
+
 
 
 
