@@ -30,7 +30,12 @@ HistoriaWeb
 
 ##### Wikipedia tenía más de 6.000 artículos en diferentes idiomas. Los fundadores, Wales y Sanger, cambiaron su enfoque de Nupedia a Wikipedia debido a su rápido éxito. La popularidad de Wikipedia siguió creciendo, especialmente cuando Google indexó el sitio o se compartieron artículos en plataformas como Slashdot.
 
+##### Básicamente la norma que establecieron desde el principio, era que cualquiera puede contribuir siempre que no cause daño y otras reglas y tradiciones de Wikipedia se crearon sobre la marcha. Ganar dinero no era el objetivo principal de ese proyecto y en 2002, solo un año después de comenzar, Sanger abandonó el proyecto. Sin embargo, su impacto perduró mucho después de que se fue. Cuando se fue, Wikipedia tenía alrededor de 20.000 artículos en diferentes idiomas. Y en 2017, había crecido a casi 5,5 millones de artículos.
 
+|*La Enciclopedia Británica* existe desde hace más de *250 años*.|*La Enciclopedia* del Libro Mundial desde hace unos *100 años*.|Mientras que Wikipedia lleva *15 años* en funcionamiento.|
+|----------|:----------:|----------:|
+
+A pesar de su corta existencia, *Wikipedia* ya tiene un contenido más extenso y diverso que sus competidores.
 
 
 
