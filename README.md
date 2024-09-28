@@ -13,7 +13,9 @@ HistoriaWeb
 **En segundo lugar**
 	Él creía que un filósofo debía liderar el proyecto, por lo que se puso en contacto con Larry Sanger.
 
-Sanger era un estudiante de posgrado en filosofía, era amigo en línea de Jimmy Wales y se le ocurrió la idea de una enciclopedia en línea. Crearon Nupedia con el apoyo de Bomis y a principios de año 2000 lanzaron oficialmente el sitio web. Se centraron en la calidad, con un riguroso proceso de revisión en el que participaron colaboradores voluntarios del proyecto para garantizar la precisión. A pesar de la minuciosidad, el progreso fue lento y, después de un año, Nupedia solo había publicado unos pocos artículos.
+##### Sanger era un estudiante de posgrado en filosofía, era amigo en línea de Jimmy Wales y se le ocurrió la idea de una enciclopedia en línea. Crearon Nupedia con el apoyo de Bomis y a principios de año 2000 lanzaron oficialmente el sitio web. Se centraron en la calidad, con un riguroso proceso de revisión en el que participaron colaboradores voluntarios del proyecto para garantizar la precisión. A pesar de la minuciosidad, el progreso fue lento y, después de un año, Nupedia solo había publicado unos pocos artículos.
+
+##### Así pues, Nupedia era un concepto muy interesante para la comunidad de Internet aunque la gente no podía enviar artículos oficialmente, aproximadamente 2.000 personas se unieron a la lista de correo de Nupedia y participaron activamente en el proyecto de diversas maneras. Esta lista de correo siempre estaba con nuevas ideas, debates y charlas relacionadas con el contenido donde Sanger y Wales conocieron el wiki. 
 
 
 
