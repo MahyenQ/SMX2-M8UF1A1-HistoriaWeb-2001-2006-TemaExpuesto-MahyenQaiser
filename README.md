@@ -23,7 +23,9 @@ HistoriaWeb
 
 ##### Sanger creó rápidamente un prototipo del wiki en nupedia.com, y ganó popularidad rápidamente. Los usuarios adoptaron el wiki y agregaron contenido de manera activa. Sin embargo, algunos colaboradores de Nupedia expresaron su preocupación de que el wiki pudiera desviar la atención de su trabajo. Para abordar esto, Wales adquirió el dominio Wikipedia.com y Sanger llevó el wiki allí.
 
-## *15 de enero* ##### solo cinco días después del lanzamiento del prototipo. Al día siguiente, Wales realizó su primera edición en la nueva plataforma.
+## *15 de enero* 
+##### solo cinco días después del lanzamiento del prototipo. Al día siguiente, Wales realizó su primera edición en la nueva plataforma.
+
 
 
 
