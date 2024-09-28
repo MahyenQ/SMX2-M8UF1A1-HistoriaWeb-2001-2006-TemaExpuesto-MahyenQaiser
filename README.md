@@ -17,7 +17,8 @@ HistoriaWeb
 
 ##### Así pues, Nupedia era un concepto muy interesante para la comunidad de Internet aunque la gente no podía enviar artículos oficialmente, aproximadamente 2.000 personas se unieron a la lista de correo de Nupedia y participaron activamente en el proyecto de diversas maneras. Esta lista de correo siempre estaba con nuevas ideas, debates y charlas relacionadas con el contenido donde Sanger y Wales conocieron el wiki. 
 
-#####Un wiki es como un sitio web que permite a cualquier persona, incluso a los visitantes, editar y realizar cambios. Configurar un wiki era muy sencillo, lo que lo convertía en una herramienta accesible para la colaboración y la creación de contenido. El 10 de enero de 2001, Sanger presentó la idea de un wiki en la lista de correo de Nupedia. Este wiki era una plataforma para que los usuarios colaboraran, crearan esquemas y redactaran contenido que luego los expertos de Nupedia podrían refinar para su publicación oficial. La comunidad recibió con agrado esta idea, deseosa de contribuir y generar contenido real para Nupedia a través del wiki.
+##### Un wiki es como un sitio web que permite a cualquier persona, incluso a los visitantes, editar y realizar cambios. Configurar un wiki era muy sencillo, lo que lo convertía en una herramienta accesible para la colaboración y la creación de contenido. El 10 de enero de 2001, Sanger presentó la idea de un wiki en la lista de correo de Nupedia. Este wiki era una plataforma para que los usuarios colaboraran, crearan esquemas y redactaran contenido que luego los expertos de Nupedia podrían refinar para su publicación oficial. La comunidad recibió con agrado esta idea, deseosa de contribuir y generar contenido real para Nupedia a través del wiki.
+
 
 
 
