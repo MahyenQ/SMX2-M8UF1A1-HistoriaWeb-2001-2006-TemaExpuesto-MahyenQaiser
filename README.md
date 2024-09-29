@@ -7,13 +7,13 @@ HistoriaWeb
 
 ##### La primera vez que alguien editó Wikipedia fue por uno de los creadores de Wikipedia, [Jimmy Wales](https://es.wikipedia.org/wiki/Jimmy_Wales), el 16 de enero de 2001. Escribió "*¡Hola, mundo!*" Luego en 1999, cuando Wales vivía en San Diego encontró un portal de búsqueda en línea y un directorio llamado Bomis y entonces comenzó a pensar en una enciclopedia libre en línea. El no tenía planes específicos para el proyecto, pero sí sabía dos cosas.
 
-![Jimmy Wales](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Jimmy_Wales.jpg)       ![Larry Sanger](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Larry_Sanger.jpg) 
-
-	*Jimmy Wales*                                   *Larry Sanger*
-
 |**En primer lugar**|**En segundo lugar**|
 |----------|:----------:|
 |*Que la enciclopedia tenía que ser abierta, libre y en línea, influenciada por el movimiento del software libre.*|*Él creía que un filósofo debía liderar el proyecto, por lo que se puso en contacto con* [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger)
+
+![Jimmy Wales](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Jimmy_Wales.jpg)       ![Larry Sanger](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Larry_Sanger.jpg) 
+
+*Jimmy Wales* y *Larry Sanger*
 
 ##### Sanger era un estudiante de posgrado en filosofía, era amigo en línea de Jimmy Wales y se le ocurrió la idea de una enciclopedia en línea. Crearon Nupedia con el apoyo de Bomis y a principios de año 2000 lanzaron oficialmente el sitio web. Se centraron en la calidad, con un riguroso proceso de revisión en el que participaron colaboradores voluntarios del proyecto para garantizar la precisión. A pesar de la minuciosidad, el progreso fue lento y, después de un año, Nupedia solo había publicado unos pocos artículos.
 
