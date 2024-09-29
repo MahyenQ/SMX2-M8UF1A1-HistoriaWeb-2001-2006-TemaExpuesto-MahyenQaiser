@@ -11,7 +11,7 @@ HistoriaWeb
 |----------|:----------:|
 |*Que la enciclopedia tenía que ser abierta, libre y en línea, influenciada por el movimiento del software libre.*|*Él creía que un filósofo debía liderar el proyecto, por lo que se puso en contacto con* [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger)
 
-![Jimmy Wales](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Jimmy_Wales.jpg)       ![Larry Sanger](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Larry_Sanger.jpg) 
+![J y L](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Wales-sanger.jpg) 
 
 *Jimmy Wales* y *Larry Sanger*
 
