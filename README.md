@@ -7,7 +7,7 @@ HistoriaWeb
 
 ##### La primera vez que alguien editó Wikipedia fue por uno de los creadores de Wikipedia, [Jimmy Wales](https://es.wikipedia.org/wiki/Jimmy_Wales), el 16 de enero de 2001. Escribió "*¡Hola, mundo!*" Luego en 1999, cuando Wales vivía en San Diego encontró un portal de búsqueda en línea y un directorio llamado Bomis y entonces comenzó a pensar en una enciclopedia libre en línea. El no tenía planes específicos para el proyecto, pero sí sabía dos cosas.
 
-![Jimmy Wales](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Jimmy_Wales.jpg) ![Larry Sanger](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Larry_Sanger.jpg)
+![Jimmy Wales](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Jimmy_Wales.jpg) *Jimmy Wales* ![Larry Sanger](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Larry_Sanger.jpg) *Larry Sanger*
 
 |**En primer lugar**|**En segundo lugar**|
 |----------|:----------:|
