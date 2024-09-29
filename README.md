@@ -9,7 +9,7 @@ HistoriaWeb
 
 ![Jimmy Wales](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Jimmy_Wales.jpg)       ![Larry Sanger](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Larry_Sanger.jpg) 
 
-*Jimmy Wales*                                   *Larry Sanger*
+	*Jimmy Wales*                                   *Larry Sanger*
 
 |**En primer lugar**|**En segundo lugar**|
 |----------|:----------:|
