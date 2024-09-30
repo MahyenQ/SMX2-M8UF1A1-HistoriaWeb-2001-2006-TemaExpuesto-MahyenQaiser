@@ -55,10 +55,10 @@ Gmail ofrecía 1 GB de espacio de almacenamiento gratuito, que era mucho más de
 A lo largo de los años, Gmail ha evolucionado y ahora ofrece muchas funciones adicionales, como la integración con *Google Drive*, videollamadas a través de *Google Meet* y la posibilidad de programar correos electrónicos, y entre otras.
 
 
+![Paul](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Paul.jpg.png)
 
 
-
-Enlaces de donde se ha extraído la información sobre [Wikipedia](https://thehistoryoftheweb.com/wikipedia-story-collective-knowledge/) y [Gmail](https://es.wikipedia.org/wiki/Gmail#:~:text=Gmail%20fue%20un%20proyecto%20iniciado%20por#:~:text=Gmail%20fue%20un%20proyecto%20iniciado%20por)
+#### Enlaces de donde se ha extraído la información sobre [Wikipedia](https://thehistoryoftheweb.com/wikipedia-story-collective-knowledge/) y [Gmail](https://es.wikipedia.org/wiki/Gmail#:~:text=Gmail%20fue%20un%20proyecto%20iniciado%20por#:~:text=Gmail%20fue%20un%20proyecto%20iniciado%20por)
 
 
 
