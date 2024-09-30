@@ -3,7 +3,7 @@ HistoriaWeb
 
 ![Wiki](https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Wikipedia.jpg.png)
 
-### Wikipedia es una enciclopedia libre en línea, editada y contribuida por los usuarios. A lo largo de los años, Wikipedia ha sido ampliamente analizada y estudiada por su fiabilidad, neutralidad y valor educativo. Wikipedia fue creada mediante un esfuerzo colaborativo que ofrece más conocimiento.
+#### Wikipedia es una enciclopedia libre en línea, editada y contribuida por los usuarios. A lo largo de los años, Wikipedia ha sido ampliamente analizada y estudiada por su fiabilidad, neutralidad y valor educativo. Wikipedia fue creada mediante un esfuerzo colaborativo que ofrece más conocimiento.
 
 ##### La primera vez que alguien editó Wikipedia fue por uno de los creadores de Wikipedia, [Jimmy Wales](https://es.wikipedia.org/wiki/Jimmy_Wales), el 16 de enero de 2001. Escribió "*¡Hola, mundo!*" Luego en 1999, cuando Wales vivía en San Diego encontró un portal de búsqueda en línea y un directorio llamado Bomis y entonces comenzó a pensar en una enciclopedia libre en línea. El no tenía planes específicos para el proyecto, pero sí sabía dos cosas.
 
@@ -45,7 +45,7 @@ A pesar de su corta existencia, *Wikipedia* ya tiene un contenido más extenso y
 
 ##### Gmail se lanza a las invitaciones privadas después de tres años de desarrollo. Inicialmente creado por Paul Bucheit como un proyecto casi improvisado, Gmail ofrecía más almacenamiento y una mejor búsqueda que sus competidores, todo ello construido en torno a una experiencia similar a la de una aplicación. La broma del Día de los Inocentes es idea de Sergey Brin.
 
-### Gmail fue creado el *1 de abril de 2004* por [Paul Buchheit](https://es.wikipedia.org/wiki/Paul_Buchheit), un ingeniero de Google que lo inicio como un proyecto especial. Ya que en ese momento, a finales de los años 90 y principios de los 2000 estaba insatisfecho con muchos proveedores que ofrecían muy poco espacio, como solo 1 MB o 4 MB como *Yahoo!* *Mail* y *Hotmail* y que presentaban interfaces extremadamente lentas. Por lo que Paul se dio cuenta de que necesitaban un sistema de correo electrónico que no solo ofreciera más espacio, sino que también mejorara la experiencia del usuario. 
+#### Gmail fue creado el *1 de abril de 2004* por [Paul Buchheit](https://es.wikipedia.org/wiki/Paul_Buchheit), un ingeniero de Google que lo inicio como un proyecto especial. Ya que en ese momento, a finales de los años 90 y principios de los 2000 estaba insatisfecho con muchos proveedores que ofrecían muy poco espacio, como solo 1 MB o 4 MB como *Yahoo!* *Mail* y *Hotmail* y que presentaban interfaces extremadamente lentas. Por lo que Paul se dio cuenta de que necesitaban un sistema de correo electrónico que no solo ofreciera más espacio, sino que también mejorara la experiencia del usuario. 
 
 Quería crear una plataforma que facilitara la búsqueda de correos electrónicos. Así que empezó a trabajar en Gmail, que introdujo muchas características que lo harían diferente de otros servicios. Gmail les dio a los usuarios más espacio para almacenar correos electrónicos y hizo que buscarlos correo electrónicos fuera más fácil que en otros servicios. 
 
