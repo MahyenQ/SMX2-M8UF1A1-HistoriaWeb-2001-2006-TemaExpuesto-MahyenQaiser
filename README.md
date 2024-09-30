@@ -41,7 +41,11 @@ HistoriaWeb
 
 A pesar de su corta existencia, *Wikipedia* ya tiene un contenido más extenso y diverso que sus competidores.
 
-# *GMAIL*
+# *GMAIL* (https://github.com/MahyenQ/SMX2-M8UF1A1-HistoriaWeb-2001-2006-TemaExpuesto-MahyenQaiser/blob/main/Gmail.jpg.png)
+
+##### Gmail se lanza a las invitaciones privadas después de tres años de desarrollo. Inicialmente creado por Paul Bucheit como un proyecto casi improvisado, Gmail ofrecía más almacenamiento y una mejor búsqueda que sus competidores, todo ello construido en torno a una experiencia similar a la de una aplicación. La broma del Día de los Inocentes es idea de Sergey Brin.
+
+
 
 
 
