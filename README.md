@@ -42,8 +42,6 @@ HistoriaWeb
 A pesar de su corta existencia, *Wikipedia* ya tiene un contenido más extenso y diverso que sus competidores.
 
 
-#### Enlaces de donde se ha extraído la información sobre [Wikipedia](https://thehistoryoftheweb.com/wikipedia-story-collective-knowledge/) y [Gmail](https://es.wikipedia.org/wiki/Gmail#:~:text=Gmail%20fue%20un%20proyecto%20iniciado%20por#:~:text=Gmail%20fue%20un%20proyecto%20iniciado%20por)
-
 
 
 
